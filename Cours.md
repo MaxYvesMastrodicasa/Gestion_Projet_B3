@@ -288,3 +288,100 @@ Le CDO est responsable du pilotage des activités liées aux données, de la ges
 1.  **Abstraction** : Analyse et extraction de l'essentiel.
 2.  **Instanciation** : Transformation en code et application.
 3.  **Vérification** : Validation et ajustement avec la réalité.
+
+# Chapitre 4
+
+Les phases du projet
+
+Contenu du cahier des charges :
+
+- Contexte et objectifs stratégiques
+- Objet et périmètre du projet
+- Domaine métier
+- Périmètre fonctionnel
+- critère de qualité
+- Conditions opérationnelles
+- Méthodologie
+- Planning et aspects financiers
+- Responsabilités et garanties
+
+modèle en cascade
+
+- Clarté de l'organisation
+- Facilité de planification
+- Efficacité sur projets stables
+- Documentation rigoureuse
+- Contrôle des coûts
+
+Phase de développement
+
+- Documentation rigoureuse à chaque étape
+- Tests systématiques et variés
+- Gestion stricte des versions
+- Automatisation des processus
+- Support utilisateur essentiel
+
+Organisation du projet
+
+- Documentation rigoureuse
+- Tests systématiques
+- Procédures standardisées
+- Suivi quotidien
+- Environnements dédiés
+- Traçabilité complète
+- Automatisation maximale
+
+# Chapitre 5
+
+Les bases de l'agilité
+
+- Une approche itérative
+- Un focus sur la satisfaction client
+- Une adaptation continue
+- Une collaboration active
+- Une livraison de valeur rapide
+- Une amélioration permanente
+
+Choix de méthodologie
+
+- Scrum: Pour projets structurés en cycles
+- Kanban: Pour flux continu et adaptation rapide
+- Hybridation possible selon contexte
+- Focus sur la valeur client
+- Amélioration continue essentielle
+
+outils Agile
+
+## Critères de Choix des Outils
+
+- Intégration avec l'existant
+- Facilité d'utilisation
+- Niveau d'automatisation
+- Support communautaire
+- Coût total de possession
+
+## Facteurs de Succès
+
+- Formation des équipes
+- Adoption progressive
+- Standardisation des process
+- Maintenance régulière
+- Amélioration continue
+
+intégration Agile
+
+## Pour une Intégration Réussie
+
+- Pas de dogmatisme méthodologique
+- Respect des expertises existantes
+- Adaptation au contexte
+- Formation et accompagnement
+- Communication transparente
+
+## Vigilance Particulière
+
+- Gestion du changement
+- Résistances internes
+- Attentes clients
+- Cohérence des processus
+- Équilibre contractuel
